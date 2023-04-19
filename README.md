@@ -12,13 +12,19 @@
 
 ### Summary of the Project
 
-I want to be able to do a compare and contrast over accidents involving vehicles (the ones that require certain licenses to driver) with the Federal Motor Carrier Safety Administration. I plan to pull data from the last 3 years (2020-2022) to show how accidents have possibly increased/and or decreased over the last few years, and which states have the most amount of wrecks. I also want to show which months have the higest rate of accidents occuring, espcially where traveling is more prominent like Spring Break, Summer, or Holiday travels. 
+My project consists an analysis of comparing and contrasting accidents involving vehicles with the federal motor carrier safety administration. Which involves class a & class b vehicles like – my dashboard will consist of charts over the last 3 years showing which vehicle has the most accidents per year, which state has the highest rate of accidents, and if there’s been an increase, and or decrease.
+The vehicles involved in this analysis are:
+-Different types of tractor trailers
+-Buses
+-Single unit trucks
+-Passenger cars
+-And light trucks
+
 
 
 ### Motivation
 
-I’ve worked in the transportation industry for the last six years, and I went into this field with absolutely no knowledge of how that industry worked. Over those 6 years, I learned the ins and outs of what companies are required to comply with, qualifications both the drivers and the companies must meet that have been implemented by the Federal Motor Carrier Safety Administration. I've spent countless hours working with mutiple departments, and the drivers themselves to gain insight on why an accident occured, what happened, what kind of accident, etc. One thing you do learn is how easy it is for a motor vehicle of that nature to be involved in an accident, whether it's something minor, and or major. That's why I want to show an analysis of how many accidents have occured over the last 3 years, and what states seem to have the highest rate of accidents.  
-
+I’ve spent the last 6 years working in the transportation industry, and I came into this field with absolutely no knowledge of it. Over these 6 years, I learned the ins and outs of what requirements are needed to hire a driver. The certain qualifications they must meet by both the Federal Motor Carrier Safety Administration, and the company they are applying to work at. Which means I have spent countless hours reviewing applications, which include accidents. The one thing I’ve learned is how easy it is for these types of vehicles to be involved in an accident, whether it’s minor, or a major accident. This lead me down to choosing this topic for my project because I want to show how often accidents with these vehicles occur. 
 
 ### Data Questions
 
@@ -36,6 +42,6 @@ I was luckily able to obtain my data in CSV form directly from the FMCSA website
 
 ### Sources - We don't support plagerism in this household 
 
-https://www.fmcsa.dot.gov/
-https://catalog.data.gov/dataset
-https://csa.fmcsa.dot.gov/
+- https://www.fmcsa.dot.gov/
+- https://catalog.data.gov/dataset
+- https://csa.fmcsa.dot.gov/
