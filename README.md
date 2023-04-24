@@ -12,14 +12,7 @@
 
 ### Summary of the Project
 
-My project consists an analysis of comparing and contrasting accidents involving vehicles with the federal motor carrier safety administration. Which involves class a & class b vehicles like – my dashboard will consist of charts over the last 3 years showing which vehicle has the most accidents per year, which state has the highest rate of accidents, and if there’s been an increase, and or decrease.
-The vehicles involved in this analysis are:
--Different types of tractor trailers
--Buses
--Single unit trucks
--Passenger cars
--And light trucks
-
+My project consists an analysis of comparing and contrasting accidents involving vehicles with the federal motor carrier safety administration. Which involves class a & class b vehicles. My final dashboard will consist of various charts providing insight on which vehicle has the highest, and the lowest amount of accidents. If there's certain months where crashes are highers, and a certain time. 
 
 
 ### Motivation
@@ -30,9 +23,10 @@ I’ve spent the last 6 years working in the transportation industry, and I came
 
 •	Which type of motor vehicle with the FMSCA has the most accidents? Which has the least? And has there been an increase in accidents over the last 3 years?
 
-•	Is there a higher rate of accidents that occur during certain months where travel is likely to be higher? (Ex. Spring break, summer, etc.)
+•	Is there a higher rate of accidents that occur during certain months where travel is likely to be higher? (Ex. Spring break, summer, etc.) 
 
 •	Which state is ranked as the worst for accidents? And has there been an increase/and or decrease in those 3 years.  
+
 
 
 ### Process, problems, and the technologies 
