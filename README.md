@@ -12,7 +12,7 @@
 
 ### Summary of the Project
 
-My project consists an analysis of comparing and contrasting accidents involving vehicles with the federal motor carrier safety administration. Which involves class a & class b vehicles. My final dashboard will consist of various charts providing insight on which vehicle has the highest, and the lowest amount of accidents. If there's certain months where crashes are highers, and a certain time. 
+My project consists an analysis of comparing and contrasting accidents involving vehicles with the federal motor carrier safety administration. Which involves class a & class b vehicles. My final dashboard will consist of various charts providing insight on which vehicle has the highest, and the lowest amount of accidents. If there's certain months where crashes are highers, and a certain time. The top 10 highest states with the most accidents, and the 10 lowest states.  
 
 
 ### Motivation
@@ -33,6 +33,10 @@ I’ve spent the last 6 years working in the transportation industry, and I came
 
 I was luckily able to obtain my data in CSV form directly from the FMCSA websites, but it didn't come without it's problems. Once I obtained the files I needed, I cleaned them up in Excel to remove items that skewed the data from uploading correctly into Python. Once I moved into Python, I was able to explore my data furthur, clean, and aggreagate my data. Another issue I ran into is I didn't take into consideration how overwhelmingly large my dataset was, and when trying to make certain charts, it would be illegible, which makes in unusable for my final dashboard. I had to break down, and change around certain columns to make them function properly when trying to convert them into a usable charts.
 
+- Excel - for cleaning
+- Python - for cleaning, aggregation, and exploration of the data
+- Powerpoint - intro to capstone
+- Tableau - Final Dashboard
 
 ### Sources - We don't support plagerism in this household 
 
