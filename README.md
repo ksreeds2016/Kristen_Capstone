@@ -12,12 +12,12 @@
 
 ### Summary of the Project
 
-My project consists an analysis of comparing and contrasting accidents involving vehicles with the federal motor carrier safety administration. Which involves class a & class b vehicles. My final dashboard will consist of various charts providing insight on which vehicle has the highest, and the lowest amount of accidents. If there's certain months where crashes are highers, and a certain time. The top 10 highest states with the most accidents, and the 10 lowest states.  
+This will be an analysis of accidents involving motor vehicles with the Federal Motor Carrier Safety Carrier Administration. The final presentation will involve various charts showing which vehicle had the highest, and the lowest accidents over a 3-year span. Which states is ranked worst, and which has the least accidents. There will also be a few other charts involving age groups, time of day, and which months has the highest accident count.  
 
 
 ### Motivation
 
-I’ve spent the last 6 years working in the transportation industry, and I came into this field with absolutely no knowledge of it. Over these 6 years, I learned the ins and outs of what requirements are needed to hire a driver. The certain qualifications they must meet by both the Federal Motor Carrier Safety Administration, and the company they are applying to work at. Which means I have spent countless hours reviewing applications, which include accidents. The one thing I’ve learned is how easy it is for these types of vehicles to be involved in an accident, whether it’s minor, or a major accident. This lead me down to choosing this topic for my project because I want to show how often accidents with these vehicles occur. 
+Working in the trucking industry, I've learned the ins and outs of what requirements must be met for a driver to be eligible to operate a Class A/Class B vehicle. I've spent countless hours working through 150+ files a week, which involves accident reporting, employment history, drug, and alcohol history etc. I went into this field with no knowledge, and now I want to show in my final project how often accidents happen with these types of motor vehicles. What also helped motivate my direction for this project is living right next to a major interstate. It’s currently under construction to add lanes to make it safer for the influx of traffic, but it’s become more of a hazard for accidents. In the last month, there’s been multiple accidents involving tractor trailers in a 2-mile span. 
 
 ### Data Questions
 
@@ -28,15 +28,15 @@ I’ve spent the last 6 years working in the transportation industry, and I came
 •	Which state is ranked as the worst for accidents? And has there been an increase/and or decrease in those 3 years.  
 
 
-
 ### Process, problems, and the technologies 
 
-I was luckily able to obtain my data in CSV form directly from the FMCSA websites, but it didn't come without it's problems. Once I obtained the files I needed, I cleaned them up in Excel to remove items that skewed the data from uploading correctly into Python. Once I moved into Python, I was able to explore my data furthur, clean, and aggreagate my data. Another issue I ran into is I didn't take into consideration how overwhelmingly large my dataset was, and when trying to make certain charts, it would be illegible, which makes in unusable for my final dashboard. I had to break down, and change around certain columns to make them function properly when trying to convert them into a usable charts.
+Luckily, I was able to obtain my data in CSV form directly from the FMCSA websites, but it didn't come without its problems. Once I obtained the files I needed, I cleaned them up in Excel to remove items that skewed the data from uploading correctly into Python. Once I moved into Python, I was able to explore my data further, clean, and aggregate my data. Another issue I ran into is I didn't take into consideration how overwhelmingly large my dataset was, and when trying to make certain charts, it would be illegible, which makes it unusable for my final dashboard. I had to break down and change around certain columns to make them function properly when trying to convert them into a usable chart.
 
 - Excel - for cleaning
 - Python - for cleaning, aggregation, and exploration of the data
-- Powerpoint - intro to capstone
-- Tableau - Final Dashboard
+- PowerPoint - intro to capstone
+- Tableau - Final Dashboard cleaning, aggregation, and exploration of the data
+
 
 ### Sources - We don't support plagerism in this household 
 
