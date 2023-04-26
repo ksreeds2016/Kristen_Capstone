@@ -1,4 +1,4 @@
-## Federal Motor Carrier Saftey Adminstration Accident Comparison 
+## Federal Motor Carrier Safety Adminstration Accident Comparison 
 
 #### Table Of Contents
 
@@ -33,7 +33,7 @@ Working in the trucking industry, I've learned the ins and outs of what requirem
 
 ### Process, problems, and the technologies
 
-Luckily, I was able to obtain my data in CSV form directly from the FMCSA websites, but it didn't come without its problems. Once I obtained the files I needed, I cleaned them up in Excel to remove items that skewed the data from uploading correctly into Python. Once I moved into Python, I was able to explore my data further, clean, and aggregate my data. Another issue I ran into is I didn't take into consideration how overwhelmingly large my dataset was, and when trying to make certain charts, it would be illegible, which makes it unusable for my final dashboard. I had to break down and change around certain columns to make them function properly when trying to convert them into a usable chart.
+Luckily, I was able to obtain my data in CSV form directly from the FMCSA websites, but it didn't come without its problems. Once I obtained the files I needed, I cleaned them up in Excel to remove items that skewed the data from uploading correctly into Python. Once I moved into Python, I was able to explore my data further, clean, and aggregate. Another issue I ran into is I didn't take into consideration how overwhelmingly large my dataset was, and when trying to make certain charts, it would be illegible, which makes it unusable for my final dashboard. I had to break down and change around certain columns to make them function properly when trying to convert them into a usable chart.
 
 - Excel - for cleaning
 - Python - for cleaning, aggregation, and exploration of the data
