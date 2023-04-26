@@ -14,10 +14,11 @@
 
 This will be an analysis of accidents involving motor vehicles with the Federal Motor Carrier Safety Carrier Administration. The final presentation will involve various charts showing which vehicle had the highest, and the lowest accidents over a 3-year span. Which states is ranked worst, and which has the least accidents. There will also be a few other charts involving age groups, time of day, and which months has the highest accident count.  
 
-
-### Motivation
+<details>
+<summary> ### Just Keep on Trucking</summary>
 
 Working in the trucking industry, I've learned the ins and outs of what requirements must be met for a driver to be eligible to operate a Class A/Class B vehicle. I've spent countless hours working through 150+ files a week, which involves accident reporting, employment history, drug, and alcohol history etc. I went into this field with no knowledge, and now I want to show in my final project how often accidents happen with these types of motor vehicles. What also helped motivate my direction for this project is living right next to a major interstate. It’s currently under construction to add lanes to make it safer for the influx of traffic, but it’s become more of a hazard for accidents. In the last month, there’s been multiple accidents involving tractor trailers in a 2-mile span. 
+</details>
 
 ### Data Questions
 
