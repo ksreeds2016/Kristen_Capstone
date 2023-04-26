@@ -37,7 +37,7 @@ Luckily, I was able to obtain my data in CSV form directly from the FMCSA websit
 - PowerPoint - intro to capstone
 - Tableau - Final Dashboard cleaning, aggregation, and exploration of the data
 
-#### Conclusion 
+### Conclusion 
 
 Tractor/Semi Trailers have the highest total in accidents each year, and passenger cars coming in at the lowest. With COVID-19 happening in 2020, the accident totals that year were lower, but after the initial wave, it continues to increase throughout the year. In the full analysis, 2021 was the worse year for accidents, having a 20k increase from the previous year. Due to the restrictions being lifted, people were no longer limited to their households, and that likely caused an increase in road travel, which also comes with the increase risk for accidents. Looking at accidents per month, I don’t think the months where travel is likely to be higher (ex. Spring break, summer, holiday travels) has any big factor into accidents. After 2020, accident totals stayed consistent with an increase/decrease of maybe 1k to 2k per month, but nothing that stuck out to say that accidents totals will be higher this month because of so and so holiday. Texas ranked #1 for being the worst for accidents, with Alaska coming in with the least amount of accidents each year. 
 
