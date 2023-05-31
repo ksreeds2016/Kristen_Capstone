@@ -39,8 +39,6 @@ Working in the trucking industry, I've learned the ins and outs of what requirem
 
 The data used I was able to obtain in CSV format, and able to clean up most of it through excel. It was then moved into python for further exploration, cleaning, and aggregation. Once I pulled the information I needed, I converted what was pulled into separate CSVs to be used for the final dashboards. A few issues I’ve come across is how overwhelmingly large the data was, and when trying to make charts, it skewed the charts to the point they weren’t usable. I had to go back into another process of cleaning and converting the data to format properly for the charts I needed for the analysis.
 
-Another issue that I hopefully will be able to rectify in the future is that the data for 2022 only goes to November. December’s data has not be made available yet, and the totals should expect at least a 15k-20k increase once I’m able to obtain that month. 
-
 #### Technology Used
 
 - Excel - for cleaning
@@ -52,7 +50,13 @@ Another issue that I hopefully will be able to rectify in the future is that the
 
 ### Conclusion
 
-Tractor/Semi Trailers have the highest total in accidents each year, and passenger cars coming in at the lowest. With COVID-19 happening in 2020, the accident totals that year were lower, but after the initial wave, it continues to increase throughout the year. In the full analysis, 2021 was the worse year for accidents, having a 20k increase from the previous year. Due to the restrictions being lifted, people were no longer limited to their households, and that likely caused an increase in road travel, which also comes with the increase risk for accidents. Looking at accidents per month, I don’t think the months where travel is likely to be higher (ex. Spring break, summer, holiday travels) has any big factor into accidents. After 2020, accident totals stayed consistent with an increase/decrease of maybe 1k to 2k per month, but nothing that stuck out to say that accidents totals will be higher this month because of so and so holiday. Texas ranked #1 for being the worst for accidents, with Alaska coming in with the least amount of accidents each year.
+Tractor/Semi Trailers have the highest total in accidents each year, and passenger cars coming in at the lowest. With COVID-19 happening in 2020, the accident totals that year were lower, but after the initial wave, it continues to increase throughout the year. In the full analysis, 2021 was the worse year for accidents, having a 20k increase from the previous year. Due to the restrictions being lifted, people were no longer limited to their households, and that likely caused an increase in road travel, which also comes with the increase risk for accidents. Looking at accidents per month, I don’t think the months where travel is likely to be higher (ex. Spring break, summer, holiday travels) has any big factor into accidents. October seemed to have a higher accident total each year, and a possible contributing factor is that companies are preparing for the holiday shopping season, which means more cargo carriers are out on the road pushing freight to prepare for the high demands. After 2020, accident totals stayed consistent with an increase/decrease of maybe 1k to 2k per month, but nothing that stuck out to say that accidents totals will be higher this month because of so and so holiday. Texas ranked #1 for being the worst for accidents, with Alaska coming in with the least amount of accidents each year.
+
+2022 data was finally updated, and 2021 still remains for having the most accidents that year, but 2022 comes pretty close with a 2k decrease at 94k total accidents that year. Decemeber seemed to be a higher travel month at 17k accidents. 
+
+A pattern I've noticed between the 3 years is that Texas will be ranked #1 is most accidents. Carriers generally push freight through Texas, and I've also learned that some interstate speed limits are higher then was I've seen here in TN. It's possible that could also be a contributing factor for having a high accident rate.
+
+Tractor Trailers also stay consisent for a high rate of accidents, but they're a more commonly used for transporting goods which means you'd see more semi-trailers on the interstate VS one of the lower accident vehicles. 
 
 ***
 
@@ -63,5 +67,3 @@ Tractor/Semi Trailers have the highest total in accidents each year, and passeng
 - https://csa.fmcsa.dot.gov/
 
 ***
-
-### Capstone Project
